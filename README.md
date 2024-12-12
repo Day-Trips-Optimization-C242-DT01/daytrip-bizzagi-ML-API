@@ -30,6 +30,6 @@ This project provides a FastAPI application that generates optimal travel itiner
 - Docker
 - Required Python libraries:
   - fastapi
-  - uvicorn
+  - math
   - scikit-learn
   - pandas
