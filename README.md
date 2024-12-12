@@ -14,8 +14,8 @@ This project provides a FastAPI application that generates optimal travel itiner
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/username/repository.git
+   cd repository
 2. Build the Docker image:
    ```bash
    docker build -t travel-route-optimizer .
